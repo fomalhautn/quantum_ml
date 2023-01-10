@@ -26,7 +26,7 @@
 
 <h2>More information is provided via Jupyter Notebooks:</h2>
 <h2><a href="https://github.com/fomalhautn/quantum_ml/blob/main/IBM_QE_Lab1_Quantum_Machine_Learning.ipynb"><em>IBM_QE_Lab1_Quantum_Machine_Learning.ipynb</em></a></h2>
-<h2><a href="https://github.com/fomalhautn/quantum_ml/blob/main/IBM_QE_Lab2_Quantum_Machine_Learning.ipynb"><em>IBM_QE_Lab2_Quantum_Machine_Learning.ipynb</em></a></h2>
+<h2><a href="https://github.com/fomalhautn/quantum_ml/blob/main/IBM_QE_Lab2_Quantum_Neural_Networks.ipynb"><em>IBM_QE_Lab2_Quantum_Neural_Networks.ipynb</em></a></h2>
 
 <h3>Anastasiia Andriievska</h3>
 
