@@ -1,4 +1,5 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7497299.svg)](https://doi.org/10.5281/zenodo.7497299)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7520386.svg)](https://doi.org/10.5281/zenodo.7520386)
+
 
 # Quantum Machine Learning
 
